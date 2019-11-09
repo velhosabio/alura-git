@@ -1,5 +1,5 @@
 require_relative 'ui'
-
+#mudanca no master
 def salva_rank(nome, pontos_totais)
     conteudo = "#{nome.to_s}\n#{pontos_totais}"
     File.write "rank.txt", conteudo
