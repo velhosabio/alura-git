@@ -29,3 +29,15 @@ local    /Users/velhosabio/Desktop/Speedio/servidor/ (push)
 origin    https://gitlab.com/tiagorp/projeto-jogo-da-forca.git (fetch)
 origin    https://gitlab.com/tiagorp/projeto-jogo-da-forca.git (push)
 git push local master #enviando pastas local para o master
+
+#github
+git remote add
+git clone
+git push
+git pull
+
+git branch
+master
+
+git merge
+git rebase
