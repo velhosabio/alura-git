@@ -41,3 +41,12 @@ master
 
 git merge
 git rebase
+
+#voltando no stash desejado
+
+#criar o stash
+git stash ""
+git stash list #para ver a lista dos stashs
+git stash apply 0 #zero porque seria o primeiro da lista
+git stash drop #remove a ultima alteração
+git stash pop #faz as duas últimas
